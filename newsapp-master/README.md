@@ -5,9 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 
-https://github.com/Aditi200217/newsapp/assets/92228949/3805b7ed-1378-4bc2-8af7-a52a400d69d9
 
-Project DEMO video
 
 In the project directory, you can run:
 
