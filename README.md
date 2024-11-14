@@ -1,8 +1,4 @@
 # NewSphere
-NewSphere is a real-time news app built with React, HTML, CSS, and JavaScript. It aggregates global news from reliable sources, offering seamless updates on politics, tech, entertainment, and more. With a clean, responsive design, it provides users with the latest headlines anytime, anywhere.
-
-
-# NewSphere
 
 NewSphere is a real-time news application built with React, HTML, CSS, and JavaScript. It aggregates and delivers global news from reliable sources, offering users timely updates across categories like politics, technology, entertainment, and more. With a sleek, responsive design, NewSphere ensures users can access the latest headlines anytime, anywhere.
 
